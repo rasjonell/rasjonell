@@ -1,5 +1,5 @@
 import { MetaTags, useMutation } from '@redwoodjs/web'
-import { toast, Toaster } from '@redwoodjs/web/toast'
+import { toast } from '@redwoodjs/web/toast'
 import {
   Form,
   Label,
@@ -51,7 +51,6 @@ const ContactPage = () => {
     <>
       <MetaTags title="Contact" description="Contact page" />
 
-      <Toaster />
       <Form error={error} onSubmit={onSubmit} formMethods={formMethods}>
         <FormError error={error} wrapperClassName="form-error" />
         <Label name="name" errorClassName="error">
