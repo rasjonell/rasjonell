@@ -8,13 +8,9 @@ Used to contribute with my old account: [@rasjonell-zz](https://github.com/rasjo
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasjonell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasjonell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasjonell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="rasjonell's GitHub Stats" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasjonell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="rasjonell's GitHub Stats" />
 
 <a href="https://github.com/rasjonell/x-library">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasjonell&repo=x-library&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
