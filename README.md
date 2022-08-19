@@ -8,4 +8,4 @@ Used to contribute with my old account: [@rasjonell-zz](https://github.com/rasjo
 # Links
 - Twitter: [@gnu_rasjonell](https://twitter.com/gnu_rasjonell)
 - LinkedIn: [Gurgen Hayrapetyan](https://linkedin.com/in/gurgenhayrapetyan)
-- Fediverse: [@gurgen](xn--69aa8bzb.xn--y9a3aq/@gurgen)
+- Fediverse: [@gurgen](https://xn--69aa8bzb.xn--y9a3aq/@gurgen)
