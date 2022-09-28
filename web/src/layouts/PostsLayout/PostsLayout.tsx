@@ -1,5 +1,7 @@
 import { Link, routes } from '@redwoodjs/router'
-import { Toaster } from '@redwoodjs/web/toast'
+
+import { Button } from '@chakra-ui/react'
+import { ArrowBackIcon, PlusSquareIcon } from '@chakra-ui/icons'
 
 type PostLayoutProps = {
   children: React.ReactNode
@@ -8,15 +10,26 @@ type PostLayoutProps = {
 const PostsLayout = ({ children }: PostLayoutProps) => {
   return (
     <div className="rw-scaffold">
-      <Toaster toastOptions={{ className: 'rw-toast', duration: 6000 }} />
       <header className="rw-header">
         <h1 className="rw-heading rw-heading-primary">
+          <Link to={routes.home()} className="rw-link">
+            <Button
+              variant="ghost"
+              marginRight={10}
+              colorScheme="teal"
+              leftIcon={<ArrowBackIcon />}
+            >
+              Return Home
+            </Button>
+          </Link>
           <Link to={routes.posts()} className="rw-link">
             Posts
           </Link>
         </h1>
-        <Link to={routes.newPost()} className="rw-button rw-button-green">
-          <div className="rw-button-icon">+</div> New Post
+        <Link to={routes.newPost()}>
+          <Button rightIcon={<PlusSquareIcon />} colorScheme="green">
+            New Post
+          </Button>
         </Link>
       </header>
       <main className="rw-main">{children}</main>
