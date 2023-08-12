@@ -1,7 +1,7 @@
 # About Me
 I'm a Yerevan based Software Engineer building Web and Mobile solutions.
 
-Interested in Graph Databases, Recommender Systems, and Functional Programming
+Interested in Graph Databases, Real-Time systems, and Concurrent Programming.
 
 Used to contribute with my old account: [@rasjonell-zz](https://github.com/rasjonell-zz)
 
